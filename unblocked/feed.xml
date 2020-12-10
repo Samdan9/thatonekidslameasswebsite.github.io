@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1AD65602-EADE-4643-94F3-F1EE91219A3B</id>
+ <title>Page list Atom feed</title>
+ <updated>2020-12-09T17:32:54-08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:CCBD9DCE-26C7-49D5-AAFE-5FC8453031C9</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">CCBD9DCE-26C7-49D5-AAFE-5FC8453031C9</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2020-12-09T17:32:54.001-08:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:74B81C33-9C83-4CED-B987-A0A1EBAF534D</id>
+  <title>minecraft</title>
+  <title xmlns="urn:iweb:">minecraft</title>
+  <in-navbar xmlns="urn:iweb:">74B81C33-9C83-4CED-B987-A0A1EBAF534D</in-navbar>
+  <link rel="alternate" href="minecraft.html"/>
+  <updated>2020-12-09T17:32:54.002-08:00</updated>
+  <content>minecraft</content>
+ </entry>
+</feed>
